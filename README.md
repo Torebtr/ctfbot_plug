@@ -5,7 +5,7 @@
 
 ## 使用
 
-先下载go-cqhttp(https://github.com/Mrs4s/go-cqhttp)并配置
+先下载go-cqhttp(https://github.com/Mrs4s/go-cqhttp ) 并配置
 
 然后运行python receive.py文件监听即可
 
