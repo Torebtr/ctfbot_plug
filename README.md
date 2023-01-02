@@ -3,6 +3,8 @@
 
 学校实验室需要赛事ctf通知，所以简单写了一下ctfhub以及ctftime赛事的爬虫，然后通过go-cqhttp发布赛事通知
 
+弃用！！！！！因为我换了onebot脚手架，但是本项目仍然可以使用，只是不再更新了。有需要新的机器人的构建思路的可以联系本人。
+
 ## 使用
 
 先下载go-cqhttp(https://github.com/Mrs4s/go-cqhttp ) 并配置
